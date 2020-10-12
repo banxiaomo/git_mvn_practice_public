@@ -1,4 +1,4 @@
-## 用于git和mv学习和练习的repository
+## 用于git和mvn学习和练习的repository
 
 ### git常用命令
 查看git对象  
